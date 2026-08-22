@@ -578,3 +578,17 @@ A trend intelligence system for detecting, analyzing, ranking, and monitoring em
 
 Built using Python, data analysis, machine learning techniques, and Streamlit.
 ```
+## 📸 Dashboard Preview
+
+### Main Dashboard
+
+![TrendRadar Dashboard](dashboard.png)
+
+### Trend Intelligence
+
+![Trend Intelligence](intelligence.png)
+
+### Pipeline & Data Health
+
+![Pipeline Status](pipeline.png)
+
