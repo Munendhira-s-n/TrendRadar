@@ -577,7 +577,7 @@ Potential future improvements include:
 A trend intelligence system for detecting, analyzing, ranking, and monitoring emerging trends from live data.
 
 Built using Python, data analysis, machine learning techniques, and Streamlit.
-```
+
 ## 📸 Dashboard Preview
 
 ### Main Dashboard
